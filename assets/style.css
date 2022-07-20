@@ -94,6 +94,7 @@ td {
 th {
     background-color: orange;
     color: white;
+    
 }
 
 tr:nth-child(even) {
